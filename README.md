@@ -9,7 +9,7 @@ This project contain 4 basic games designed using python runs on terminal
 
 Descriptions about the games are within the games only.
 
-##Steps to run 
+## Steps to run 
 - clone the repo 
 - run the main.py 
 
